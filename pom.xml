@@ -390,7 +390,7 @@
         <commons-cli.version>1.3.1</commons-cli.version>
         <commons.version>2.6</commons.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>28.2-jre</guava.version>
         <hadoop.version>3.1.1.7.2.7.0-SNAPSHOT</hadoop.version>
         <kafka.version>2.5.0.7.2.7.0-SNAPSHOT</kafka.version>
         <kafkaArtifact>kafka_2.12</kafkaArtifact>
@@ -1274,7 +1274,7 @@
                             <id>enforce</id>
                             <configuration>
                                 <rules>
-                                    <DependencyConvergence />
+                                    <DependencyConvergence/>
                                 </rules>
                             </configuration>
                             <goals>
