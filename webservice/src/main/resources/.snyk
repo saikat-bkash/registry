@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:handlebars:20151207':
+    - react-twitter-typeahead > handlebars:
+        patched: '2023-11-29T18:48:12.338Z'
+        id: 'npm:handlebars:20151207'
+        path: react-twitter-typeahead > handlebars
