@@ -113,7 +113,7 @@
         </dependency>
     </dependencies>
     <properties>
-        <pmml.version>1.0.22</pmml.version>
+        <pmml.version>1.4.0</pmml.version>
     </properties>
     <build>
       <resources>
