@@ -57,7 +57,7 @@
     "font-awesome": "^4.6.3",
     "fuzzy": "^0.1.1",
     "gitgraph.js": "^1.11.4",
-    "http-proxy-middleware": "^0.17.3",
+    "http-proxy-middleware": "^2.0.7",
     "isomorphic-fetch": "^2.2.1",
     "jshint": "^2.9.2",
     "json-loader": "^0.5.4",
@@ -91,7 +91,7 @@
     "url-loader": "^0.5.7",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0",
-    "webpack": "2.1.0-beta.21",
+    "webpack": "5.0.0",
     "webpack-dev-middleware": "^1.10.0",
     "webpack-hot-middleware": "^2.16.1",
     "webpack-merge": "^2.6.1"
