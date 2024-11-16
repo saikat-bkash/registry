@@ -1,7 +1,7 @@
 # Dockerfile - minimal-ubuntu
 # usage: docker build -t minimal-ubuntu:0.1 .
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # environment variables
 ENV DEBIAN_FRONTEND noninteractive
