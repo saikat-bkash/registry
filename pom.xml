@@ -392,7 +392,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <guava.version>28.1-jre</guava.version>
         <hadoop.version>3.1.1.7.2.7.0-SNAPSHOT</hadoop.version>
-        <kafka.version>2.5.0.7.2.7.0-SNAPSHOT</kafka.version>
+        <kafka.version>3.7.2</kafka.version>
         <kafkaArtifact>kafka_2.12</kafkaArtifact>
         <curator.version>4.3.0.7.2.7.0-SNAPSHOT</curator.version>
         <curator-test.version>4.3.0.7.2.7.0-SNAPSHOT</curator-test.version>
@@ -408,7 +408,7 @@
         <jsonschemavalidator.version>2.2.6</jsonschemavalidator.version>
         <kryo.version>2.21</kryo.version>
         <libphonenumber.version>8.0.0</libphonenumber.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.5.13</logback.version>
         <log4j.version>1.2.17</log4j.version>
         <phoenix.version>4.4.0-HBase-1.1</phoenix.version>
         <mariadb-java-client.version>1.5.5</mariadb-java-client.version>
@@ -1274,7 +1274,7 @@
                             <id>enforce</id>
                             <configuration>
                                 <rules>
-                                    <DependencyConvergence />
+                                    <DependencyConvergence/>
                                 </rules>
                             </configuration>
                             <goals>
