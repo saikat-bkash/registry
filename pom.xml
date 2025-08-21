@@ -426,7 +426,7 @@
         <mysql-connector-java.version>5.1.42</mysql-connector-java.version>
         <jacoco.version>0.8.5</jacoco.version>
         <spotbugs.version>4.0.0</spotbugs.version>
-        <spring.version>5.0.16.RELEASE</spring.version>
+        <spring.version>6.2.10</spring.version>
         <spring-security-kerberos-core.version>1.0.1.RELEASE</spring-security-kerberos-core.version>
         <postgresql.version>42.2.13</postgresql.version>
         <flyway.version>5.1.4</flyway.version>
@@ -1274,7 +1274,7 @@
                             <id>enforce</id>
                             <configuration>
                                 <rules>
-                                    <DependencyConvergence />
+                                    <DependencyConvergence/>
                                 </rules>
                             </configuration>
                             <goals>
